@@ -3,5 +3,3 @@ tying git add
 trying to pull
 _____________
 branching main into 2 branches 
-_____________
-new commit for 3 way merge 
